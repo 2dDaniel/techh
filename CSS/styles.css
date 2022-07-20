@@ -206,7 +206,7 @@ header {
 /* service */
 .section__service {
   padding: 0.5em 0 2em;
-  background-image: url("/IMG/bacg.jpg");
+  background-image: url("IMG/bacg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   margin-top: 8em;
